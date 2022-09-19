@@ -1,6 +1,10 @@
 const Contact = () => {
   return (
-    <h1>Contact</h1>
+    <div className="py-32 text-center">
+      <h1 className="text-4xl font-extrabold">
+        Contact 
+      </h1>
+    </div>
   );
 };
 

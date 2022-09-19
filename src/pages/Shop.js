@@ -1,6 +1,10 @@
 const Shop = () => {
   return (
-    <h1>Shop</h1>
+    <div className="py-32 text-center">
+      <h1 className="text-4xl font-extrabold">
+        Shop 
+      </h1>
+    </div>
   );
 };
 
